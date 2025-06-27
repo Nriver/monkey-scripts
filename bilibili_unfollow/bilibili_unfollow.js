@@ -9,6 +9,9 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
 // @grant        none
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
+// @homepage     https://github.com/Nriver/monkey-scripts/tree/main/bilibili_unfollow
+// @supportURL   https://github.com/Nriver/monkey-scripts/issues
+// @source       https://github.com/Nriver/monkey-scripts/tree/main/bilibili_unfollow
 // ==/UserScript==
 
 (function() {
