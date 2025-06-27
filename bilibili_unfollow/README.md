@@ -6,6 +6,11 @@
 
 ---
 
+📎 **脚本地址**：
+👉 [https://greasyfork.org/zh-CN/scripts/540898-bilibili-批量取关](https://greasyfork.org/zh-CN/scripts/540898-bilibili-批量取关)
+
+---
+
 ## ⚙️ 使用方法 How to Use
 
 1. 打开链接：https://space.bilibili.com/
