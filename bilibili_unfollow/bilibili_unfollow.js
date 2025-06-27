@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         bilibili 批量取关
 // @namespace    https://github.com/Nriver
-// @version      1.1
+// @version      1.2.1
 // @description  批量取消 B 站关注
 // @author       Nriver
 // @license      AGPL-3.0
@@ -20,8 +20,8 @@
     const $ = window.jQuery;
 
     const AUTO_NEXT = true;    // ✅ 设置为 true 启用自动翻页，false 只处理当前页
-    const clickDelay = 200;     // 每次取关之间的间隔
-    const pageDelay = 1500;     // 翻页后等待时间
+    const clickDelay = 250;     // 每次取关之间的间隔
+    const pageDelay = 1750;     // 翻页后等待时间
     const numPages = 100;       // 最多处理页数（仅在 AUTO_NEXT = true 时有效）
 
     function sleep(ms) {
