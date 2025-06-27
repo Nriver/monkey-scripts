@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         bilibili 批量取关
 // @namespace    https://github.com/Nriver
-// @version      2025-06-27
+// @version      1.0
 // @description  批量取消 B 站关注
 // @author       Nriver
 // @license      AGPL-3.0
